@@ -1,0 +1,27 @@
+.jumbotron{
+  height: 100%;
+  background-color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.title{
+ font-family: 'Gorditas', cursive;
+ color:orange;
+}
+
+
+.joke-joke{
+  font-family: 'Acme', sans-serif;;
+}
+
+.sub-title,.btn-warning{
+  font-family: 'Acme', sans-serif;
+  margin-top: 30px;
+
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
